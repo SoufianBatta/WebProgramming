@@ -4,7 +4,7 @@
 
 ##### FOR EACH ARGUMENT, THERE WILL BE A LINK RELATED TO THE FILE THAT'S MADE OF BY TOPICS OF THE ARGUMENT 
 
->----------
+----------
 # ARGUMENTS 
 1. **Lezione 1 - HTML + CSS**
 ----------
@@ -48,4 +48,5 @@
 
 
 *This repository is made by the only purpose to make working web programming files*
+<br><br><br>
 <p style="text-align:right;"><b>Soufian Batta</b></p>
