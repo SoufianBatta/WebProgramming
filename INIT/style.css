@@ -1,12 +1,19 @@
 body {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
-    outline-color: blueviolet;
+    align-content: center;
+    font-family: Helvetica;
 }
 p {
-    outline-width: 23px;
-    outline-color: black;
+    border: 3px solid hotpink;
+    background-color: lavenderblush;
 }
 em {
     background-color: yellow;
+}
+h1 {
+    text-align: center;
+}
+a {
+    text-align: center;
 }
