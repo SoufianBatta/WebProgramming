@@ -5,8 +5,8 @@ body {
     font-family: Helvetica;
 }
 p {
-    border: 3px solid hotpink;
-    background-color: lavenderblush;
+    border: 3px solid rgb(103, 23, 63);
+    background-color: rgba(35, 188, 96, 0.491);
     text-align: left;
     display: inline-block;
 }
