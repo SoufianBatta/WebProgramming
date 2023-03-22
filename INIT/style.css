@@ -1,4 +1,12 @@
 body {
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
+    outline-color: blueviolet;
+}
+p {
+    outline-width: 23px;
+    outline-color: black;
+}
+em {
+    background-color: yellow;
 }
